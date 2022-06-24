@@ -1,5 +1,6 @@
 # Algorithm_study
 # 푼 문제
+문제 풀고 나면 여기 푼 사람에 본인 추가하기
 https://nifty-paddleboat-7b2.notion.site/63fb635a0cba4b26908db38e289702d4?v=ab763e5ed9744ab78ba68f62aac0c1f5
 
 # 규칙
