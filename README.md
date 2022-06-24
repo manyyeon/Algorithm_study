@@ -12,13 +12,20 @@ https://nifty-paddleboat-7b2.notion.site/63fb635a0cba4b26908db38e289702d4?v=ab76
 
 # Convention
 주석 : 아이디어 도출 과정, 개념 적용 과정
+
 File Naming
+
 요소 간 구분 : - (hyphen)
+
 요소 내 공백 : _ (underbar)
+
 문제번호-문제_이름-작성자.py ex. 10171-고양이-YJ.py
+
 Pull Request
+
 [날짜] 이름
-[날짜] 이름
+
+
 Commit Message
 # Type
 - Pass  : 정답 코드를 제출할 때
