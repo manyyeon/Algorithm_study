@@ -1,4 +1,7 @@
 # Algorithm_study
+# 푼 문제
+https://nifty-paddleboat-7b2.notion.site/63fb635a0cba4b26908db38e289702d4?v=ab763e5ed9744ab78ba68f62aac0c1f5
+
 # 규칙
 - 일주일에 백준 하나, 프로그래머스 하나, 나머지 5일은 그 2개를 고민(공부)하는 과정에서 본인이 각자 풀고 싶은 쉬운 문제 풀기
 - 일주일에 한 주제씩 정해서 같이 풀만한 좀 어려운 백준 문제 정하기 ex) 다이나믹 프로그래밍
