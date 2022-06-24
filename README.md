@@ -16,14 +16,14 @@ https://nifty-paddleboat-7b2.notion.site/63fb635a0cba4b26908db38e289702d4?v=ab76
 File Naming
 
 요소 간 구분 : - (hyphen)
-
 요소 내 공백 : _ (underbar)
 
-문제번호-문제_이름-작성자.py ex. 10171-고양이-YJ.py
+문제번호-문제_이름-작성자.py ex. 4796-캠핑-DY.py
 
 Pull Request
 
 [날짜] 이름
+ex) [220624] 다연
 
 
 Commit Message
